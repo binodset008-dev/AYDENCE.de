@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="320" height="100">
+  <!-- Refined Aydence Logo - Identical to branding with improved quality -->
+  <g transform="translate(10, 5) scale(1.1)">
+    <!-- Blue Figure (Right / Major) -->
+    <g stroke="#1a2e6b" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <circle cx="48" cy="18" r="6" />
+      <!-- Arms raised in V shape -->
+      <path d="M38 32 C43 25, 53 25, 58 32" />
+      <!-- Body and legs -->
+      <path d="M48 24 L48 52" />
+      <path d="M48 52 L38 68 M48 52 L58 68" />
+    </g>
+    
+    <!-- Green Figure (Left / Minor) -->
+    <g stroke="#7a8c3a" stroke-width="2.2" stroke-linecap="round" fill="none">
+      <circle cx="28" cy="32" r="5.5" />
+      <!-- Arms spread wide -->
+      <path d="M16 46 C22 38, 34 38, 40 46" />
+      <!-- Body and legs -->
+      <path d="M28 38 L28 62" />
+      <path d="M28 62 L18 78 M28 62 L38 78" />
+    </g>
+    
+    <!-- Elegant Gold Swoosh (Wraps around bottom) -->
+    <path d="M5 68 Q30 85, 60 62 Q85 45, 95 65" stroke="#d4af37" stroke-width="2" fill="none" stroke-linecap="round" />
+  </g>
+  
+  <!-- "Aydence" Typography - Matches original 1:1 -->
+  <text x="105" y="66" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" fill="#1a2e6b" letter-spacing="-1.5px">Aydence</text>
+</svg>
