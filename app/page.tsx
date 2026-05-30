@@ -14,7 +14,6 @@ export default function Home() {
     <PageWrapper>
       <Navbar />
       <HomeHero />
-      <div className="w-full h-24 bg-gradient-to-b from-black to-white"></div>
       <AboutDrShoba />
       <UpcomingBatches />
       <Footer />
