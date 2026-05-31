@@ -31,7 +31,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head>
         <link rel="icon" href="/logo-new.svg" type="image/svg+xml" />
       </head>
-      <body className="antialiased font-sans">{children}</body>
+      <body className="antialiased font-sans" suppressHydrationWarning>{children}</body>
     </html>
   );
 }
